@@ -1,3 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ellibarcelos.ellibarcelos">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Me+chamo+Elli+Barcelos+)](https://github.com/ElliBarcelos)
+
+# [![Github](https://img.shields.io/github/followers/HenriqueLopes42?label=Follow&style=social)](https://github.com/ElliBarcelos) [![Github](https://img.shields.io/github/stars/ElliBarcelos?label=Star&style=social)](https://github.com/ElliBarcelos)
+
 ### Olá! Eu sou Elli Barcelos👋
 
 - 🌱 Estudando: HTML/CSS/ JavaScript na Alura cursos e Inglês na Alura Língua.
@@ -23,3 +29,5 @@
     <a href="https://www.facebook.com/elircineia/" target"_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
   
 </div>
+
+ ![snake gif](https://github.com/ElliBarcelos/ElliBarcelos/blob/output/github-contribution-grid-snake.svg)
