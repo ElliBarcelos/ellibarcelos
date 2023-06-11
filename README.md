@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Me+chamo+Elli+Barcelos+)](https://github.com/ElliBarcelos)
 
-# [![Github](https://img.shields.io/github/followers/HenriqueLopes42?label=Follow&style=social)](https://github.com/ElliBarcelos) [![Github](https://img.shields.io/github/stars/ElliBarcelos?label=Star&style=social)](https://github.com/ElliBarcelos)
+# [![Github](https://img.shields.io/github/followers/ElliBarcelos?label=Follow&style=social)](https://github.com/ElliBarcelos) [![Github](https://img.shields.io/github/stars/ElliBarcelos?label=Star&style=social)](https://github.com/ElliBarcelos)
 
 ### Olá! Eu sou Elli Barcelos👋
 
@@ -30,4 +30,4 @@
   
 </div>
 
- ![snake gif](https://github.com/ElliBarcelos/ElliBarcelos/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/ElliBarcelos/HenriqueLopes42/blob/output/github-contribution-grid-snake.svg)
