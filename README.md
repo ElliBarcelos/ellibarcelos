@@ -4,8 +4,6 @@
 
 # [![Github](https://img.shields.io/github/followers/ElliBarcelos?label=Follow&style=social)](https://github.com/ElliBarcelos) [![Github](https://img.shields.io/github/stars/ElliBarcelos?label=Star&style=social)](https://github.com/ElliBarcelos)
 
-### Olá! Eu sou Elli Barcelos👋
-
 - 🌱 Estudando: HTML/CSS/ JavaScript na Alura cursos e Inglês na Alura Língua.
 - 😄 Pronouns:  ela/dela
 
@@ -30,4 +28,4 @@
   
 </div>
 
- ![snake gif](https://github.com/HenriqueLopes42/HenriqueLopes42/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/ElliBarcelos/ElliBarcelos/blob/output/github-contribution-grid-snake.svg)
