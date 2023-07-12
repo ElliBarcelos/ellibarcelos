@@ -1,39 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ellibarcelos.ellibarcelos">
 
-<div class="escrita">
-  <h1>Olá! Meu nome é Elli Barcelos</h1>
-</div>
-
-.escrita {
-  display: inline-block;
-}
-
-h1 {
-  font-family: monospace;
-  border-right: 2.5px solid green;
-  animation: cursor .5s infinite,
-    escrevendo 4.0s steps(30, end) infinite;
-  white-space: nowrap;
-  overflow: hidden;
-}
-
-@keyframes cursor {
-  0% {
-    border-color: transparent;
-  }
-  50%{
-    border-color: green;
-  }
-}
-
-@keyframes escrevendo {
-  from {
-    width: 0;
-  } to {
-    width: 100%;
-  }
-}
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pessoas!!%F0%9F%91%8B;Me+chamo+Elli+Barcelos+)](https://github.com/ElliBarcelos)
 
 # [![Github](https://img.shields.io/github/followers/ElliBarcelos?label=Follow&style=social)](https://github.com/ElliBarcelos) [![Github](https://img.shields.io/github/stars/ElliBarcelos?label=Star&style=social)](https://github.com/ElliBarcelos)
